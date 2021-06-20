@@ -3,11 +3,11 @@
   "version": "1.8.0",
   "productName": "Helios Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "TeamPlay Daniel Scalzi (https://github.com/dscalzi/)",
-  "license": "TeamPlay",
-  "homepage": "https://teamplayofficiel.wixsite.com/teamplayweb",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/KevinDev-01/AppAndroid/issues"
+    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -45,6 +45,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KevinDev-01/AppAndroid.git"
+    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
   }
 }
