@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "teamdev",
   "version": "4.0.1",
-  "productName": "Helios Launcher",
+  "productName": "TeamPlayDev",
   "description": "Modded Minecraft Launcher",
   "author": "Daniel Scalzi (https://github.com/dscalzi/)",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/KevinDev-01/AppAndroid",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/KevinDev-01/AppAndroid/issues"
   },
   "private": true,
   "main": "index.js",
